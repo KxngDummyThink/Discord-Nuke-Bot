@@ -2,8 +2,9 @@
 A discord bot which will help you to get rid of channels and members in an old guild.
 # How To use?
 Step 1: Clone this project or download the files.
-- To clone the project simply `git clone`.
-NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
+- To clone the project simply `git clone https://github.com/BruceMacGary/Nuke-Bot.git`.
+
+- NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
 - You will also need to be a admin of a server to invite this bot. 
 
 ---------- https://discordapp.com/developers/applications ------------
