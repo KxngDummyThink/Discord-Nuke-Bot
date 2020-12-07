@@ -16,8 +16,8 @@ Step 2: You need to make an application in the discord developer portal and add 
 
 - After you have done that go to the application the press "bot" then "add new bot" then press "yes"
 - From there you should see a title called "Click to reveal token" press it then copy the token.
-- Paste the token in the file called `config.json`.
-<img src = "">
+- Paste the token in the file called `config.json`, also put a prefix of your choice.
+<img src = "https://cdn.discordapp.com/attachments/762167812936040500/785364126951800892/unknown.png">
 
 1: Make sure you have node.js installed on your computer \[if you want to run the bot on your computer].
 - https://nodejs.org
