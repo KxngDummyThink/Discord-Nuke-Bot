@@ -11,18 +11,15 @@ Step 1: Clone this project or download the files.
 
 Step 2: You need to make an application in the discord developer portal and add a bot to the application, and then get the token of the bot. 
 - https://discordapp.com/developers/applications
+- Discord developers > create a new application
+- Name it what ever you like.
+
+- After you have done that go to the application the press "bot" then "add new bot" then press "yes"
+- From there you should see a title called "Click to reveal token" press it then copy the token.
+
 
 1: Make sure you have node.js installed on your computer \[if you want to run the bot on your computer].
 - https://nodejs.org
-
-
-2: go to discord developers and create a new application. Name it what ever you like.
-
-After you have done that go to the application the press "bot" then "add new bot" then press "yes"
-
-from there you should see a title called "Click to reveal token" press it then copy the token.
-
-With the token you have just copied go to the "index.js" file and at the bottom where it says "client.login("YOUR BOT TOKEN")" paste your token
 
 
 then go back to discord/developes and back onto the application you made. and press "0Auth2" and then select "BOT" in the scopes
