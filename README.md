@@ -1,16 +1,19 @@
 # Nuke-Bot
 A discord bot which will help you to get rid of channels and members in an old guild.
+
+### Points to be Noted 
+- NOTE I AM NOT RESPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
+- You will also need to be a admin of a server to invite this bot.
+
 # How To use?
 Step 1: Clone this project or download the files.
-- To clone the project simply `git clone https://github.com/BruceMacGary/Nuke-Bot.git`.
+- To clone the project, simply do `git clone https://github.com/BruceMacGary/Nuke-Bot.git`.
 
-- NOTE I AM NOT REASPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
-- You will also need to be a admin of a server to invite this bot. 
+Step 2: You need to make an application in the discord developer portal and add a bot to the application, and then get the token of the bot. 
+- https://discordapp.com/developers/applications
 
----------- https://discordapp.com/developers/applications ------------
-
-1: Make sure you hhave node.js installed on your computer (IT IS FREE TO DOWNLAOD) 
-If you dont fo to this website: https://nodejs.org
+1: Make sure you have node.js installed on your computer \[if you want to run the bot on your computer].
+- https://nodejs.org
 
 
 2: go to discord developers and create a new application. Name it what ever you like.
