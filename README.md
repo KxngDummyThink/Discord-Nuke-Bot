@@ -5,6 +5,8 @@ A discord bot which will help you to get rid of channels and members in an old g
 - NOTE I AM NOT RESPONSABLE FOR ANY BANS TO YOUR ACCOUTNS! USE AT YOUR OWN RISK.
 - You will also need to be a admin of a server to invite this bot.
 
+Please ⭐ this repo if you like the repository.
+
 # How To use?
 Step 1: Clone this project or download the files.
 - To clone the project, simply do `git clone https://github.com/BruceMacGary/Nuke-Bot.git`.
